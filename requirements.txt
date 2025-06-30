@@ -1,0 +1,18 @@
+# Core Streamlit app
+streamlit>=1.29.0
+requests>=2.31.0
+
+# Data handling and visualization
+pandas>=2.1.0
+numpy>=1.24.0
+plotly>=5.17.0
+
+# n8n API interaction
+httpx>=0.25.0
+
+# Configuration and environment
+python-dotenv>=1.0.0
+
+# Optional: For more advanced features
+streamlit-autorefresh>=1.0.0
+streamlit-extras>=0.3.0
